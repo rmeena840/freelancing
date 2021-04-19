@@ -2,8 +2,8 @@
 date: '1'
 title: 'Profile Launcher - Chrome Extension'
 cover: 'demo1.png'
-github: 'https://github.com/chandrikadeb7/Social-Media-Launcher-Chrome-Extension'
-external: 'https://github.com/chandrikadeb7/Social-Media-Launcher-Chrome-Extension'
+github: 'https://github.com/rmeena840/Social-Media-Launcher-Chrome-Extension'
+external: 'https://github.com/rmeena840/Social-Media-Launcher-Chrome-Extension'
 tech:
   - HTML
   - Javascript
