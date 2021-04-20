@@ -24,6 +24,10 @@ module.exports = {
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/r.a.v.i.n.d.r.a_',
+    },
+    {
+      name: 'YouTube',
+      url: 'https://www.youtube.com/channel/UCDNMVGZDs_VQ6UN9nqLpQIQ',
     }
   ],
 
