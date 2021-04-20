@@ -2,9 +2,20 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Tech Blogging
-  - Team Management
-  - Mentoring
+- MongoDb
+- Express
+- React
+- NodeJS
+- Python
+- React-Native
+- PHP
+- JavaScript
+- MySQL
+- HTML5
+- CSS3
+- C
+- C++
+- AWS EC2, S3, Lambda
 ---
 
 Hello! I'm Ravindra Meena, from Mumbai, also known as Finance capital of India.

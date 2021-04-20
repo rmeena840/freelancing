@@ -1,17 +1,15 @@
 ---
-date: '3'
+date: '2'
 title: 'Google Chrome Extension - Scraping'
 cover: 'demo1.png'
 github: 'https://github.com/rmeena840/Social-Media-Launcher-Chrome-Extension'
 external: 'https://github.com/rmeena840/Social-Media-Launcher-Chrome-Extension'
 tech:
-  - HTML
-  - Javascript
+  - heroku
   - Selenium
   - Web Driver
   - React
   - Node
-  - Express
 showInProjects: true
 ---
 

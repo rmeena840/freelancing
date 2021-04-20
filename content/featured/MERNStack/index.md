@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'MERN Stack Web application'
 cover: 'MERN.png'
 github: 'https://github.com/rmeena840/MERN-Full-Stack-Development'
